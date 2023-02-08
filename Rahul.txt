@@ -1,0 +1,17 @@
+1. Git is a system that lets the user to manage and keep track of source code histories whereas githup is a platform that is used to store git repositories.
+   Git developers themselves perform a command-line tool where code changes like commit and merge within the Git tool on their own local devices. 
+   By contrast, GitHub provides its cloud-based graphical interface where these tasks are performed.
+
+
+
+2. git init: It initialize a new git repository.
+   git commit: it make changes to a repository.
+   git pull: Pull changes from a git remote repository.
+   git add: Add files to a repository.
+   git log: It views the commit history of git repository.
+
+3.step 1 : switch to the branch that you want to create a pull request for.
+  step 2: click create pull request, this will open your default browser to take you to Github.
+  step 3: On GitHub confirm that the branch in the base- dropdown menu is the branch where you want to merge your changes .
+  step 4: Type a title and description for your pull request.
+  step 5: click create pull request .
